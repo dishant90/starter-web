@@ -9,3 +9,5 @@ This repository will be used to show hot Git and GitHub work together with the h
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
