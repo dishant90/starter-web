@@ -15,6 +15,7 @@ Sample website with plenty of files for demos
 This repository contains a web application which can be hosted to any web server or local server
 
 ## How to Contribute
+Please fork this repository and issue pull requests
 
 ### Copyright
 2020 Git Training
