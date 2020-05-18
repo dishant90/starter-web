@@ -12,6 +12,9 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# REVIEWS
+	Please provide your review if you like this course
 	
 # COPYRIGHTS
 2020 @Git.Training	
