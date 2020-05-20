@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    dishant			----developer
+    dishant			----developer who creates tags
 
 # THANKS
 
